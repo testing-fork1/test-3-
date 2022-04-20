@@ -1,0 +1,25 @@
+1. Auditing   ccsadp-agent-03    ral-op-bld02   testautomation, cdw-dev-int_Deploy       snapshot Done
+              ccsadp-agent-04    ral-op-bld02   testautomation_ARPQA2
+
+2. Cal        ccsadp-agent-55    ral-ccs-bld28  DRoI_Dev_Nightly, CPM_PROD                snapshot Done  
+              ccsadp-agent-56    ral-ccs-bld28  Cal-Dev-CI, AutoDeployment  
+
+
+3. Common UI  Agent-ERX-BLD-01  ERX-BLD-01    
+
+
+4. CSOP      ccsadp-agent-93	ral-ccs-bld-47  CSOP.Corephase.2, CSOP.Core.Release.Phase2    snapshot Done
+             ccsadp-agent-94    ral-ccs-bld-47 
+
+5. Formulary  ccsadp-agent-29   ral-ccs-bld15   Form.Main                                      snapshot Done
+              ccsadp-agent-30   ral-ccs-bld15
+
+6. Formulary On Demand  ccsadp-agent-20R, 19R   ral-ccs-bld10  Fod_Dev, Arp-Dev-Int                    snapshot Done
+
+
+
+
+ 
+
+		
+              
